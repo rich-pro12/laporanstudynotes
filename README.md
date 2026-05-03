@@ -1,6 +1,6 @@
 # laporanstudynotes
-Richie Pranata 
-312410451
+## Richie Pranata 
+## 312410451
 
 # 🚀 Progress Pengembangan Aplikasi Study Notes
 
